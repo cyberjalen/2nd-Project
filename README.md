@@ -14,3 +14,7 @@ Designing and implementing a secure and scalable cloud environment using Amazon 
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+
+## Skills Learned
+
+* 
