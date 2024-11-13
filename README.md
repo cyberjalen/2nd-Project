@@ -13,7 +13,7 @@ Ongoing project where I'm designing and implementing a secure and scalable cloud
     - [ ] Spanish
 
 ## Key Features
-[IAM](/features/IAM.md)
+[IAM Best Practices](/features/IAM.md)
 
 ## Skills Learned
 * 
