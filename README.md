@@ -12,7 +12,7 @@ Designing and implementing a secure and scalable cloud environment using Amazon 
     - [ ] Chinese
     - [ ] Spanish
 
-## Showcase
+## Key Features
 
 ## Skills Learned
 * 
