@@ -8,10 +8,7 @@ Designing and implementing a secure and scalable cloud environment using Amazon 
 ## Roadmap
 
 - [x] Add Changelog
-- [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
 
