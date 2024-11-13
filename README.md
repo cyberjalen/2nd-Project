@@ -16,4 +16,4 @@ Ongoing project where I'm designing and implementing a secure and scalable cloud
 [IAM Best Practices](/features/IAM.md)
 
 ## Skills Learned
-* 
+AWS Cloud Computing | IAM | VPC | S3
